@@ -1,4 +1,5 @@
-const { modul } = require('./module');
+
+ zconst { modul } = require('./module');
 const moment = require('moment-timezone');
 const { baileys, boom, chalk, fs, figlet, FileType, path, pino, process, PhoneNumber, axios, yargs, _ } = modul;
 const { Boom } = boom
@@ -20,7 +21,7 @@ const {
     jidDecode,
     getAggregateVotesInPollMessage,
     proto
-} = require("@adiwajshing/baileys")
+} = require("@whiskeysockets/baileys")
 const { color, bgcolor } = require('./lib/color')
 const colors = require('colors')
 const { start } = require('./lib/spinner')
