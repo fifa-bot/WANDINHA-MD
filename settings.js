@@ -29,13 +29,13 @@ global.socialm = "GitHub: 😐" //ur github or insta name
 global.location = "Pakistan, Bwp" //ur location
 
 //new
-global.botname = "𝗪𝗔𝗡𝗗𝗜𝗡𝗛𝗔-𝗠𝗗"
+global.botname = "Anne-MD"
 global.ownernumber = '923474187615'
 global.ownername = '≛⃝👑𝗔𝘀𝗶𝗳𝗞𝗶𝗻𝗴🔥🇵🇰'
 global.ownerNumber = ["923474187615@s.whatsapp.net"]
 global.ownerweb = "https://wa.me/+923474187615"
 global.websitex = "https://wa.me/+923474187615"
-global.wagc = "https://chat.whatsapp.com/E2GcOH4xsTrLs1PaJ6P7Ku"
+global.wagc = "https://wa.me/+923474187615"
 global.themeemoji = '🪀'
 global.wm = "Asif Khan"
 global.botscript = 'Bot Under Development ' //script link
